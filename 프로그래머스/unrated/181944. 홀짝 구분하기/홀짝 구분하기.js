@@ -10,5 +10,5 @@ rl.on('line', function (line) {
     input = line.split(' ');
 }).on('close', function () {
     n = Number(input[0]);
-    console.log(input[0] % 2 === 0 ? `${input[0]} is even` : `${input[0]} is odd`)
+    console.log(n % 2 === 0 ? `${n} is even` : `${n} is odd`)
 });

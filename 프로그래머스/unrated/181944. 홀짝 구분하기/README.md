@@ -1,10 +1,10 @@
-# [unrated] 홀짝 구분하기 - 181944 
+# [level unrated] 홀짝 구분하기 - 181944 
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181944) 
 
 ### 성능 요약
 
-메모리: 32 MB, 시간: 49.65 ms
+메모리: 32.3 MB, 시간: 50.73 ms
 
 ### 구분
 
@@ -12,11 +12,15 @@
 
 ### 채점결과
 
-Empty
+정확성: 100.0<br/>합계: 100.0 / 100.0
+
+### 제출 일자
+
+2023년 11월 4일 17:54:9
 
 ### 문제 설명
 
-<p>자연수 <code>n</code>이 입력으로 주어졌을 때 만약 <code>n</code>이 짝수이면 "<code>n</code> is even"을, 홀수이면 "<code>n</code> is odd."를 출력하는 코드를 작성해 보세요.</p>
+<p>자연수 <code>n</code>이 입력으로 주어졌을 때 만약 <code>n</code>이 짝수이면 "<code>n</code> is even"을, 홀수이면 "<code>n</code> is odd"를 출력하는 코드를 작성해 보세요.</p>
 
 <hr>
 
@@ -42,5 +46,7 @@ Empty
 <p>출력 #2</p>
 <div class="highlight"><pre class="codehilite"><code>1 is odd
 </code></pre></div>
+<p>※ 2023년 05월 15일 지문이 수정되었습니다.</p>
 
-> 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
+
+> 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
